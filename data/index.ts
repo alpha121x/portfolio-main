@@ -140,33 +140,27 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "bixisoft",
+    img: "/bixi.svg",
+    nameImg: "/bixisoftName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "debtavisor",
+    img: "/debt.svg",
+    nameImg: "/debtavisorName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "EstateAgency",
+    img: "/estate.svg",
+    nameImg: "/E-Agency.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    name: "totaldebtpro",
+    img: "/totaldebt.svg",
+    nameImg: "/debtproName.svg",
   },
 ];
 
