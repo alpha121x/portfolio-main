@@ -3,11 +3,11 @@ import React from "react";
 import { workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
-const Experience = () => {
+const Services = () => {
   return (
     <div className="py-20 w-full">
       <h1 className="heading">
-        My <span className="text-purple">work experience</span>
+        Our <span className="text-purple">Services</span>
       </h1>
 
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
@@ -51,4 +51,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Services;

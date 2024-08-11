@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
+  { name: "Services", link: "#projects" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -167,28 +167,28 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "PHP Devloper Intern",
+    title: "Web Development",
     desc: "Assisted in the development of a web-based platform using PHP,Mysql, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Web App Dev - Next-gen Tech",
+    title: "Virtual Assistant",
     desc: "Designed and developed web app for both desktop & Android platforms using custom code.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance Web Dev Project",
+    title: "Graphics ",
     desc: "Led the dev of a web app for a client, from initial concept to deployment on custom domain.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Shopify Services",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
