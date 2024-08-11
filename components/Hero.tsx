@@ -3,7 +3,6 @@ import { FaLocationArrow } from "react-icons/fa6";
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
-import logo from "../public/logo.jpeg";
 
 const Hero = () => {
   return (
@@ -44,7 +43,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <img
-            src="/logo.jpeg"
+            src="/logo-robx.png"
             alt="RobX Solutions Logo"
             className="mx-auto max-w-80"
           />
