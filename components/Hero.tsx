@@ -45,7 +45,7 @@ const Hero = () => {
           <img
             src="/logo-new.png"
             alt="RobX Solutions Logo"
-            className="mx-auto max-w-80 opacity-0.1"
+            className="mx-auto max-w-80"
           />
 
           {/**
