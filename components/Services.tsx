@@ -1,17 +1,20 @@
 import React from "react";
 
-import { workExperience } from "@/data";
+import { services } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
 const Services = () => {
   return (
     <div className="py-20 w-full">
       <h1 className="heading">
-        Our <span className="text-purple">Services</span>
+        Our{" "}
+        <span className="text-purple" id="services">
+          Services
+        </span>
       </h1>
 
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
-        {workExperience.map((card) => (
+        {services.map((card) => (
           <Button
             key={card.id}
             //   random duration will be fun , I think , may be not

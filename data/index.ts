@@ -1,6 +1,6 @@
 export const navItems = [
   { name: "About", link: "#about" },
-  { name: "Services", link: "#projects" },
+  { name: "Services", link: "#services" },
   { name: "Projects", link: "#projects" },
   { name: "Contact", link: "#contact" },
 ];
@@ -164,32 +164,32 @@ export const companies = [
   },
 ];
 
-export const workExperience = [
+export const services = [
   {
     id: 1,
     title: "Web Development",
-    desc: "Assisted in the development of a web-based platform using PHP,Mysql, enhancing interactivity.",
+    desc: "Crafting dynamic, interactive websites tailored to your business needs.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Virtual Assistant",
-    desc: "Designed and developed web app for both desktop & Android platforms using custom code.",
+    desc: "Offering tailored virtual support and efficient web solutions across desktop and mobile platforms.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Graphics ",
-    desc: "Led the dev of a web app for a client, from initial concept to deployment on custom domain.",
+    desc: "Delivering visually compelling designs from concept to final deployment.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Shopify Services",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Enhancing and managing your Shopify store with modern, user-friendly features.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
