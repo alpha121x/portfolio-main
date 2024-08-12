@@ -42,22 +42,11 @@ const Hero = () => {
 
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          {/**
-           *  Link: https://ui.aceternity.com/components/text-generate-effect
-           *
-           *  change md:text-6xl, add more responsive code
-           */}
-
           <img
-            src="/logo-robx-transparent.png"
+            src="/logo0.png"
             alt="RobX Solutions Logo"
-            className="mx-auto my-1 max-w-80"
+            className="mx-auto max-w-80"
           />
-
-          <h2 className="heading">
-            <span className="text-blue-500">RobX</span>{" "}
-            <span className="text-purple">Solutions</span>
-          </h2>
 
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
