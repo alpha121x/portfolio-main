@@ -6,7 +6,7 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 
 const Hero = () => {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-12 pt-30">
       {/**
        *  UI: Spotlights
        *  Link: https://ui.aceternity.com/components/spotlight
@@ -45,7 +45,7 @@ const Hero = () => {
           <img
             src="/logoo.png"
             alt="RobX Solutions Logo"
-            className="mx-auto max-w-100"
+            className="mx-auto mb-[-50px] max-w-100"
           />
 
           <TextGenerateEffect
