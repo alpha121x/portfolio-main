@@ -45,7 +45,7 @@ const Hero = () => {
           <img
             src="/logoo.png"
             alt="RobX Solutions Logo"
-            className="mx-auto max-w-80"
+            className="mx-auto max-w-100"
           />
 
           <TextGenerateEffect
