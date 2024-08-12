@@ -43,7 +43,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <img
-            src="/logo0.png"
+            src="/logoo.png"
             alt="RobX Solutions Logo"
             className="mx-auto max-w-80"
           />
