@@ -207,6 +207,6 @@ export const socialMedia = [
   },
   {
     id: 3,
-    img: "/www.linkedin/inn/",
+    img: "/link.svg",
   },
 ];
